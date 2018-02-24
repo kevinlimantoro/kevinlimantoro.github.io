@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Kevin Darmawan Limantoro
 
-You can use the [editor on GitHub](https://github.com/kevinlimantoro/kevinlimantoro.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+3 Years working experience in Software Design, Development, and Deployment
+in various multinational company outside Indonesia has really widens the scope of my knowledge and experience 
+internationally. One of the company i used to work on was a big data focused company, one of their client is AirAsia Malaysia. The other one is realy famous with their Agile Methodology Implementation which is the global-standard when it comes to software development. I speak Indonesian, English, and a little bit of Chinese. The programming language i use is C#.Net. Currently, I am residing in Taipei, Taiwan and working with one of the Singapore Company located in Nangang Software Park.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Expertise
+The domain knowledge I am really familiar with(in order):
+1. Casino Management
+2. Online Gaming
+3. Insurance 
+4. E-Commerce
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kevinlimantoro/kevinlimantoro.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Resume
+You can find it [Here](https://www.dropbox.com/s/kqkfv9mociceaup/Resume%20Kevin.pdf?dl=0)
